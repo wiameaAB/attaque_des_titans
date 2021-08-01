@@ -24,4 +24,6 @@ if score_1 > score_2:
     print(player_2,"a échoué avec un score de :",score_2) 
 else:
     print(player_2,"a gagner le jeu avec un score de: ",score_2)    
-    print(player_1,"a échoué avec un score de :",score_1) 
+    print(player_1,"a échoué avec un score de :",score_1)
+
+new line
